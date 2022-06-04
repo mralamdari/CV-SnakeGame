@@ -1,4 +1,4 @@
-# Computer Vision Snake Game
+# 🐍Computer Vision Snake Game
 <p>
  It is a fun game that I've built it recently.
 </p>
