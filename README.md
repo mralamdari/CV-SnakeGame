@@ -6,10 +6,7 @@
  In this game, you can play your favourite snake game and eat doughnuts 🍩. 
 </p>
 <p>
-but in this game, there is no need to touch the screen 💻, move a mouse 🖱️ or press a button ⌨️ to move the snake 🐍. 
-</p>
-<p>
- Just move your index finger 👆, and that's it.
+but in this game, there is no need to touch the screen 💻, move a mouse 🖱️ or press a button ⌨️ to move the snake 🐍. Just move your index finger 👆, and that's it.
  </p>
 <p>
  Just Run it and have fun.
